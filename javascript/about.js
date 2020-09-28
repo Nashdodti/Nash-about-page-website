@@ -1,1 +1,0 @@
-$(".kevin-mortensen-2").delay(2e3).animate({opacity:"1"},2500),AOS.init({duration:1200});
